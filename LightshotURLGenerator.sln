@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.34729.46
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generator", "Generator\Generator.csproj", "{18BAFCFB-CCAB-45C1-AAEA-A652DA61D447}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphicGenerator", "GraphicGenerator\GraphicGenerator.csproj", "{C3B26DF6-3FA9-45E0-BB12-D79782E76D19}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{18BAFCFB-CCAB-45C1-AAEA-A652DA61D447}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18BAFCFB-CCAB-45C1-AAEA-A652DA61D447}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18BAFCFB-CCAB-45C1-AAEA-A652DA61D447}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3B26DF6-3FA9-45E0-BB12-D79782E76D19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3B26DF6-3FA9-45E0-BB12-D79782E76D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3B26DF6-3FA9-45E0-BB12-D79782E76D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3B26DF6-3FA9-45E0-BB12-D79782E76D19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
