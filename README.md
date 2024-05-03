@@ -1,5 +1,6 @@
+<img src=https://github.com/VladVolkov22222/LightshotURLGenerator/assets/119122824/7be07a6a-dac0-417e-aebf-ac558f4ca06b>
 <h1>Lightshot URL Generator</h1>
-<h2>How to generate</h2>
+<h2>How to generate URLs</h2>
 <p>Enter the number of links you want to generate.</p>
 
 <h3>How to open the link</h3>
